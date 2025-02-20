@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there 👋I am Aishwarya..
 
-<!--
-**Aish258/Aish258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Data Scientist | 📊 Data Analyst
 
-Here are some ideas to get you started:
+## 🔹 About Me
+- 🎓 Master's in Data Science
+- 📈 I’m currently working on car sales data project.
+- 💡 Passionate about SQL,Python, ML, and Data Visualization
+- 🌱 I’m currently learning Machine learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Skills
+- Excel formula application
+- Python, R, SQL, Pandas, NumPy
+- Data Visualizatio- Matplotlib,Tableau
+  
+## Exposure to
+-- Machine Learnin- Scikit-Learn,seaborn
+## ## 📫 Connect with Me
+LinkedIn- 
+GitHub- 
+Mobile-9082390160
+Email- aishwaryasawant250895@gmail.com
+
