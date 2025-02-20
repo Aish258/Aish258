@@ -14,7 +14,7 @@
 - Data Visualizatio- Matplotlib,Tableau
   
 ## Exposure to
--- Machine Learnin- Scikit-Learn,seaborn
+- Machine Learnin- Scikit-Learn,seaborn
 ## ## 📫 Connect with Me
 LinkedIn- 
 GitHub- 
